@@ -17,12 +17,6 @@ public class Calculator {
         }
         return -1;
     }
-    
-
-
-
-
-
 
     public static int power(int base, int exponent){
 
