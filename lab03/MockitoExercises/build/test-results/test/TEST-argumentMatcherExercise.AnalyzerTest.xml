@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="argumentMatcherExercise.AnalyzerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-22T03:47:54" hostname="ZENGEL-PC" time="0.011">
+  <properties/>
+  <testcase name="analyzerTest" classname="argumentMatcherExercise.AnalyzerTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

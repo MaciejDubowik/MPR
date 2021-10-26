@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="colorExercise.HelloColorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-22T03:47:54" hostname="ZENGEL-PC" time="0.0">
+  <properties/>
+  <testcase name="helloColorTest" classname="colorExercise.HelloColorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
